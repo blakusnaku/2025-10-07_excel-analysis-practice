@@ -17,6 +17,14 @@ It covers three key skill areas:
 
 ---
 
+### 📸 Before and After
+
+![Raw dataset preview](./assets/data_raw.png)
+
+![Cleaned dataset preview](./assets/data_cleaned.png)
+
+---
+
 ## 🗂️ Files Included
 
 | File | Description |
