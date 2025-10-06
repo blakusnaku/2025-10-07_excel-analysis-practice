@@ -1,3 +1,6 @@
+> 🗓️ Mock Practice — Excel Analysis (October 7, 2025)
+> Demonstrates end-to-end Excel workflows for data formatting, lookup functions, and cleaning.
+
 # 🧩 Excel Analysis Practice  
 **Date:** October 7, 2025  
 **Focus:** Conditional Formatting, Lookup Functions, and Data Cleaning  
